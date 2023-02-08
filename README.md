@@ -43,6 +43,11 @@ Prepared a quick summary dashboard containing the following information:
 
 - Average years spent in 149 Solutions.
 
+
+<p align="center"> 
+  
+  <img src="https://www.employeecycle.com/wp-content/uploads/2022/03/DashboardGif1.1-opt.gif" alt="https://www.employeecycle.com/wp-content/uploads/2022/03/DashboardGif1.1-opt.gif">
+
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
  <!-- CREDITS -->
