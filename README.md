@@ -17,7 +17,7 @@
  
  ## ⏳ Dataset
  
- - Download dataset from here : 
+ - Download dataset from here : https://github.com/irishabhtiwari/HR_Dashboard_Tableau/tree/main/HR%20Analytics%20Dataset
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
